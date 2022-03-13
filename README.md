@@ -1,6 +1,6 @@
 # cityInventory
 
-This application allow users to view ,Searcg and Edit City details according to the logged user role.
+This application allow users to view ,Search and Edit City details according to the logged user role.
 
 ROLE_USER - View ,Search access
 
